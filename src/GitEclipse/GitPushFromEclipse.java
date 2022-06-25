@@ -9,6 +9,7 @@ public class GitPushFromEclipse {
 
 		String you = "what are you looking to??";
 		String you1 = " how is Asra jan :) ";
+		String you2 = " she is good , thnaks";
 		}
 
 }
