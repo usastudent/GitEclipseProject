@@ -7,6 +7,7 @@ public class GitPushFromEclipse {
 		int i = 10;
 		int b = 20;
 
+		String you = "what are you looking to??";
 	}
 
 }
